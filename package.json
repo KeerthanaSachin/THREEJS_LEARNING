@@ -18,5 +18,10 @@
     "punycode": "^2.3.1",
     "three": "^0.166.1",
     "vercel": "^35.1.0"
-  }
+  },
+  "description": "",
+  "main": "main.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
