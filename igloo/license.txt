@@ -1,0 +1,11 @@
+Model Information:
+* title:	Igloo
+* source:	https://sketchfab.com/3d-models/igloo-a4f07e22f8364317b3c83291395687d6
+* author:	Andrew_Valkov (https://sketchfab.com/Andrew_Valkov)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Igloo" (https://sketchfab.com/3d-models/igloo-a4f07e22f8364317b3c83291395687d6) by Andrew_Valkov (https://sketchfab.com/Andrew_Valkov) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
